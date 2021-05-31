@@ -16,10 +16,10 @@ Each version of a design should be housed in its own directory and include:
 1. 3D models of the custom parts, suitable for being sent to rapid prototyping services (`plethora`, `xometry`, and `protolabs` to name three I've used)
     1. If the new design is an update of only _part_ of a previous design, the un-changed 3D models should not be replicated. However, there should exist clear references in...
 3. A bill of materials, including non-custom parts (fittings, needles, etc)
-4. A document with a brief description of the design and its intended use case. 
+4. A document with a brief description of the design and its intended use case. This may be in the same file as the BOM. 
 
 
-## A note on license and derivative works.
+## A note on license and derivative works
 A creative commons license was chosen for this repository, and you the reader are encouraged to use and upgrade these designs! 
 I would additionally ask that if you think up a genius improvement, or are inspired to create something better, that you also share those designs publically. 
 You can do that here, by making a pull request, or through your own project -- I'm happy to reference other projects in this documentation. 
