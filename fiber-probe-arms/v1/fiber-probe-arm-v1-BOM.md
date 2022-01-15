@@ -10,7 +10,7 @@ With the pivot point at the end of the arm, this is much more convenient than us
 
 ### Comments on assembly
 The fiber may be affixed in the needles a few ways. Most obvious is simply potting with epoxy/glue, for cleaved-facet fibers (which frequently contact the die) the inability to re-cleave can be a problem.
-Alternatively, I have been using the last item in the BOM to sort of strain-relieve the fiber into the Luer-lock end of the needle.
+Alternatively, I have used some soft rubber rod to sort of strain-relieve the fiber into the Luer-lock end of the needle.
 I cut a ~1 cm long section of the rubber rod and use a razor blade to make a slice along its length, slightly deeper than the center of the rod.
 This should look a bit like a hot dog bun -- and the fiber rests inside the piece much like a hot dog in its bun!
 The high friction coefficient of the rubber provides a good hold on the fiber, and the rubber can be jammed into the Luer needle's end.
@@ -19,7 +19,9 @@ You may find it helpful to buy a slightly over-sized rubber rod and taper the en
 I create a "taper" by just making a single angled cut from ~the center of the needle end to the outside of the rod about 50% of the way along its length.
 See the file `rubber_stopper_example.SLDPRT` for a (non-scaled) representation of this.
 
-To get the balance of screw tightness and spring restoring force right, I actually use two springs -- one mounted into each dowel pin slot.
+Alternatively (and what I actually do now, it's so much better) I designed some fixtures which clamp onto the end of the Luer-lock needles and magnetically hold the fiber in place (analogous to products from Thorlabs, Luminos, etc). 
+
+To get the balance of angle adjustment screw screw tightness and spring restoring force right, I actually use two springs -- one mounted into each dowel pin slot.
 You could just find stronger springs.
 
 ## Bill of Materials
@@ -37,4 +39,3 @@ You could just find stronger springs.
 | 2-56 screws, 1/2" 	 | McMaster | 	92196A081	|	1	| Adjustment screw for tilt  |
 | 2-56 lock washers 	 | McMaster | 92147A410		|	1	|  |
 | Luer-lock needles 	 | McMaster | 6710A31		|	1	| 23 gauge |
-| Rubber rod 	 | McMaster | 		|	1	| Diameter?? |
