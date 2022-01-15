@@ -13,11 +13,11 @@ Most of my designs are made in solidworks 2018, so you'll need to be able to ope
 Other filetypes (`.stl`, etc) may be made available if there is interest.
 
 Each version of a design should be housed in its own directory and include: 
-1. 3D models of the custom parts, suitable for being sent to rapid prototyping services (`plethora`, `xometry`, and `protolabs` to name three I've used)
+1. 3D models of all required custom parts, suitable for being sent to rapid prototyping services (`plethora`, `xometry`, and `protolabs` to name three I've used)
     1. If the new design is an update of only _part_ of a previous design, the un-changed 3D models should not be replicated. However, there should exist clear references in...
 3. A bill of materials, including non-custom parts (fittings, needles, etc)
 4. A document with a brief description of the design and its intended use case. This may be in the same file as the BOM. 
-
+5. A subdirectory, often called `auxiliary files`, that stores *extra* CAD files which may be useful (e.g.  assemblies, `.stl` files for prototyping on a 3D printer). These are not designs that need to be sent out for manufacture.
 
 ## A note on license and derivative works
 A creative commons license was chosen for this repository, and you the reader are encouraged to use and upgrade these designs! 
