@@ -9,7 +9,7 @@ Anyway, these are my version(s).
 
 ## Project structure
 In its first iteration, there are just one or two variations of fiber holders, and one type of die mounting chuck. 
-Most of my designs are made in solidworks 2018, so you'll need to be able to open or convert these files to another format if you want to modify anything. 
+Most of my designs are made in solidworks 2018 (as time has gone on, a lot of these are Solidworks 2024), so you'll need to be able to open or convert these files to another format if you want to modify anything. 
 Other filetypes (`.stl`, etc) may be made available if there is interest.
 
 Each version of a design should be housed in its own directory and include: 
